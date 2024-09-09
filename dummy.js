@@ -5,4 +5,5 @@ console.log("Hello, World!");
 // testing github on 16 jan
 // trying to push code using CMD 7/3/23
 // mantaining streak 
-// couldn't code due to headache, this is to maintain streak
+// couldn't code due to headache, this is to maintain stre
+// couldn't push my code due from laptop due to internet issue.pushing code from phone 
